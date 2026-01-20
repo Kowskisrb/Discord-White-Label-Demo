@@ -1,6 +1,6 @@
-# 🤖 Discord White Label Manager (SaaS Demo)
+# 🤖 Simple Discord White Label Manager (SaaS Demo)
 
-A full-stack dashboard that allows Discord Server Owners to customize a bot's identity (Nickname & Avatar) specific to their server. This project demonstrates **Discord OAuth2**, **Guild Ownership Verification**, and **REST API manipulation** in a secure SaaS-style architecture.
+A simple full-stack dashboard that allows Discord Server Owners to customize a bot's identity (Nickname & Avatar) specific to their server. This project demonstrates **Discord OAuth2**, **Guild Ownership Verification**, and **REST API manipulation** in a secure SaaS-style architecture.
 
 
 ## 🚀 Features
